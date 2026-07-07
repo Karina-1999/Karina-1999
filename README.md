@@ -11,7 +11,7 @@
 - Фреймворки: UIKit и SwiftUI (в процессе изучения)
 
 ### Контактные данные:
-- Telegram: Corochevce
+- Telegram: @Corochevce
 - Email: phantom.kot2007@yandex.ru
 
 
