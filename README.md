@@ -3,7 +3,7 @@
 ### Обо мне
 - Студентка, учусь на специальности информационные системы и программирование в ИСПО СПБПУ, 3 курс
 - Изучаю iOS-разработку на Swift, Android-разработку на Kotlin
-- Сейчас активно работаю с Swift, Xcode, Git, UIKit/SwiftUI, Android Studio
+- Сейчас активно работаю с Swift, Kotlin, Xcode, Android Studio, Git
 
 ### Технологии, которые я изучаю
 - Язык: Swift, Kotlin
